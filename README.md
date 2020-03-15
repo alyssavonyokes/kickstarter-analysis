@@ -7,7 +7,7 @@ The first pivot chart "Parent Category Outcomes" provides a visualization of the
 
 Next when looking at the pivot chart "Subcategory Statistics" we then see that 412 of those 671 kickstarters were successful.
 
-![SubcategoryStatistics](path/to/Subcategory Statistics.png)
+![Subcategory Statistics](path/to/Subcategory Statistics.png)
 
 After, we look at the pivot chart "Outcomes Based on Launch Date" and see that the months of May and June come out on top for the months that have the highest number of successful kickstarter campaignes across 2009-2017 around the world. 
 
