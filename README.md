@@ -5,7 +5,7 @@ The first chart "Parent Category Outcomes" provides a visualization of the Theat
 
 ![Parent Category Outcomes](https://github.com/alyssavonyokes/kickstarter-analysis/blob/master/Parent%20Category%20Outcomes.png)
 
-Next when looking at the pivot chart "Subcategory Statistics" we then see that 412 of those 671 kickstarters were successful.
+Next when focusing in on the "Subcategory Statistics" chart, we see that 412 of those 671 kickstarters were successful.
 
 ![Subcategory Statistics](https://github.com/alyssavonyokes/kickstarter-analysis/blob/master/Subcategory%20Statistics.png)
 
