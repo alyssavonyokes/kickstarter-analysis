@@ -7,10 +7,10 @@ The first pivot chart "Parent Category Outcomes" provides a visualization of the
 
 Next when looking at the pivot chart "Subcategory Statistics" we then see that 412 of those 671 kickstarters were successful.
 
-! [Subcategory Statistics](path/to/Subcategory Statistics.png)
+![SubcategoryStatistics](path/to/Subcategory Statistics.png)
 
 After, we look at the pivot chart "Outcomes Based on Launch Date" and see that the months of May and June come out on top for the months that have the highest number of successful kickstarter campaignes across 2009-2017 around the world. 
 
-! [Outcomes Based on Launch Date](path/to/Outcomes Based on Launch Date.png)
+![Outcomes Based on Launch Date](path/to/Outcomes Based on Launch Date.png)
 
 Based on the above findings, in the United States, Plays have been sucessful overall being fundraised through Kickstarter when launched in the month of May. The statistics are relatively easy to follow because of the consistant data and not all over the map like other categories. I reccomend that Louise launch her play's kickstarter in the United States in the month of May for a higher liklihood of success. 
