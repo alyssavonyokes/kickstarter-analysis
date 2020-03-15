@@ -3,7 +3,7 @@ Performing analysis on kickstarter data to uncover trends. The focus is specific
 
 The first pivot chart "Parent Category Outcomes" provides a visualization of the Theatre types and their sucess overall based on Country. After filtering to the United States, we see that there are far more Play kickstarters being launched at first glance compared to Spaces and Musicals.
 
-! [Parent Category Outcomes](path/to/Parent Category Outcomes.png)
+![Parent Category Outcomes](path/to/Parent Category Outcomes.png)
 
 Next when looking at the pivot chart "Subcategory Statistics" we then see that 412 of those 671 kickstarters were successful.
 
