@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on kickstarter data to uncover trends. The focus is specifically on campaigns in the United States and further on the Parent Category "Theatre" and Subcategory "Plays".
 
-The first pivot chart "Parent Category Outcomes" provides a visualization of the Theatre types and their sucess overall based on Country. After filtering to the United States, we see that there are far more Play kickstarters being launched at first glance compared to Spaces and Musicals.
+The first chart "Parent Category Outcomes" provides a visualization of the Theatre types and their sucess overall based on Country. After filtering to the United States, we see that there are far more Play kickstarters being launched at first glance compared to other theatre types such as Spaces and Musicals.
 
 ![Parent Category Outcomes](https://github.com/alyssavonyokes/kickstarter-analysis/blob/master/Parent%20Category%20Outcomes.png)
 
