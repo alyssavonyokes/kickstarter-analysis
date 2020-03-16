@@ -21,4 +21,8 @@ After, we look at the chart "Outcomes Based on Launch Date" and see that the mon
 
 ### Conclusion
 
-Based on the above findings, in the United States, Plays have been sucessful overall being fundraised through Kickstarter when launched in the month of May. The statistics are relatively easy to follow because of the consistant data and not all over the map like other categories. I reccomend that Louise launch her play's kickstarter in the United States in the month of May for a higher liklihood of success. 
+Based on the above findings, in the United States, Plays have been sucessful overall being fundraised through Kickstarter when launched in the month of May. The statistics are relatively easy to follow because of the consistant data, and not all over the map like other categories. I reccommend that a new play's kickstarter should launch in the United States in the month of May for a higher liklihood of success. While maintaining a goal of under $45,000, launching in the month of May, and focusing on a play as a theatre production one will have a fairly successful campaign according to the data.
+
+### Limitations and Suggestions
+
+I believe it would also be important to filter by deadline. Factoring in deadline we would see the legnth of time all successful campaigns were active and use that as a parameter for a successful play campaign in the United States. Also, I believe a limitation to this data is the lack of information regarding the type of advertising they ran for their campaign, along with the amount of data/information and design of their campaign page. All of this information would assist in refining what is needed for a successful campaign in the Theatre, and more specifically, Play realm in the United States.
