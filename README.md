@@ -3,19 +3,19 @@ Performing analysis on kickstarter data to uncover trends. The focus is specific
 
 ### Challenge
 
-The first chart "Parent Category Outcomes" provides a visualization of the Theatre types and their sucess overall based on Country. After filtering to the United States, we see that there are far more Play kickstarters being launched at first glance compared to other theatre types such as Spaces and Musicals.
+1. The first chart "Parent Category Outcomes" provides a visualization of the Theatre types and their sucess overall based on Country. After filtering to the United States, we see that there are far more Play kickstarters being launched at first glance compared to other theatre types such as Spaces and Musicals.
 
 ![Parent Category Outcomes](https://github.com/alyssavonyokes/kickstarter-analysis/blob/master/Parent%20Category%20Outcomes.png)
 
-Next when focusing in on the "Subcategory Statistics" chart, we see that 412 of those 671 kickstarters that are plays were successful.
+2. Next when focusing in on the "Subcategory Statistics" chart, we see that 412 of those 671 kickstarters that are plays were successful.
 
 ![Subcategory Statistics](https://github.com/alyssavonyokes/kickstarter-analysis/blob/master/Subcategory%20Statistics.png)
 
-In the terms of campaign goals, we see that the most successful campaigns also have goals set below $45,000 (shown below).
+3. In the terms of campaign goals, we see that the most successful campaigns also have goals set below $45,000 (shown below).
 
 ![OutcomeGoals](https://github.com/alyssavonyokes/kickstarter-analysis/blob/master/OutcomesGoals.png)
 
-After, we look at the chart "Outcomes Based on Launch Date" and see that the months of May and June come out on top for the months that have the highest number of successful kickstarter campaignes across 2009-2017 around the world.
+4. After, we look at the chart "Outcomes Based on Launch Date" and see that the months of May and June come out on top for the months that have the highest number of successful kickstarter campaignes across 2009-2017 around the world.
 
 ![Outcomes Based on Launch Date](https://github.com/alyssavonyokes/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date.png)
 
